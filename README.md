@@ -15,10 +15,6 @@ and change url in url.txt file..
 
 Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter qrt.py or double click on qrt.py file..
 
-👉Twitter Auto Comment https://youtu.be/52tglYAXP-M
-
-(in these video i botted auto comment for only using one acc you can use these code run multiple accounts to auto comment)
-
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
