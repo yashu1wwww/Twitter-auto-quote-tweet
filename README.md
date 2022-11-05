@@ -4,6 +4,9 @@ Twitter auto quote tweet using selenium with python
 👉Twitter auto quote tweet
 https://www.youtube.com/watch?v=tnfcgXeW_Ec
 
+here i am added upto 3 accs which auto login to auto quote to the post....
+if you more means copy line from 100 to 144 & paste it in 145 line & dont forgot to change usename and password...
+
 
 change username & password in 14 & 15th line and below also where username and password where asked in qrt.py file...
 
