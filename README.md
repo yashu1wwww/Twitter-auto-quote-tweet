@@ -4,19 +4,13 @@ Twitter auto quote tweet using selenium with python
 👉Twitter auto quote tweet
 https://www.youtube.com/watch?v=tnfcgXeW_Ec
 
-here i am added upto 3 accs which auto login to auto quote to the post....
-if you more means copy line from 100 to 144 & paste it in 145 line & dont forgot to change usename and password...
+Here, I have added up to three accounts that can auto-login to quote posts. If you need more, simply copy lines 100 to 144 and paste them on line 145, and don't forget to change the username and password.
 
+Make sure to change the username and password on lines 14 and 15, as well as in any other location where the username and password are requested in the qrt.py file. Additionally, change the text in the qrt.py file and update the URL in the url.txt file.
 
-change username & password in 14 & 15th line and below also where username and password where asked in qrt.py file...
+(Note: for auto-login, you must use non-authentication accounts.)
 
-and change the text in qrt.py ...
-
-and change url in url.txt file..
-
-(note for auto login used accs must be non authentication accounts)
-
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd on that particular folder and enter qrt.py or double click on qrt.py file..
+To begin, download the latest version of the Chrome Driver from https://chromedriver.chromium.org/, extract the file, and place it in the designated folder. Then, open the command prompt in that folder and enter "qrt.py" or double-click on the qrt.py file
 
 👉Note:-
 
