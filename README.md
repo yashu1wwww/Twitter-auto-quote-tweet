@@ -1,11 +1,7 @@
 # Twitter-auto-quote-tweet-
 Twitter auto quote tweet using selenium with python
 
-👉Twitter auto quote tweet
-
-https://www.youtube.com/watch?v=tnfcgXeW_Ec
-
-Here, I have added up to three accounts that can auto-login to quote posts. If you need more, simply copy lines 100 to 144 and paste them on line 145, and don't forget to change the username and password.
+## Here, I have added up to three accounts that can auto-login to quote posts. If you need more, simply copy lines 100 to 144 and paste them on line 145, and don't forget to change the username and password.
 
 Make sure to change the username and password on lines 14 and 15, as well as in any other location where the username and password are requested in the qrt.py file. Additionally, change the text in the qrt.py file and update the URL in the url.txt file.
 
