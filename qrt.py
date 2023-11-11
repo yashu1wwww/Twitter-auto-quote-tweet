@@ -28,7 +28,7 @@ password = driver.find_element_by_name("password") #replace with your twitter pa
 password.send_keys("Twitter_123")
 password.send_keys(Keys.ENTER)
 time.sleep(4)
-driver.get("https://twitter.com/Kannada_KBO_/status/1723223451043799453") #replace with which post you want auto quote..
+driver.get("https://twitter.com/hasantoxr/status/1723266777705001004") #replace with which post you want auto quote..
 time.sleep(5)
 
 counter = 0
