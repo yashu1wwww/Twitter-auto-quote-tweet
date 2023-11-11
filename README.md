@@ -1,7 +1,9 @@
 # Twitter-auto-quote-tweet-
 Twitter auto quote tweet using selenium with python
 
-Make sure to change the username and password on lines 14 and 15, as well as in any other location where the username and password are requested in the qrt.py file. Additionally, change the text in the qrt.py file and update the URL in the url.txt file.
+# Make sure to change the username and password on lines 24 and 28. Also,
+
+# review the 15th line for any necessary adjustments to the tweets, the 32nd line for the correct Twitter post URL, and the 52nd line for the desired number of quote retweets.
 
 # (Note: for auto-login, you must use non-authentication accounts.)
 
