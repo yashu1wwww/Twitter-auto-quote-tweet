@@ -24,10 +24,11 @@ email = driver.find_element_by_name('text')
 email.send_keys("Fmsong@123") #replace with your twitter account username
 email.send_keys(Keys.ENTER)
 time.sleep(2)
-password = driver.find_element_by_name("pass123") #replace with your twitter password 
-password.send_keys("Twitter_123")
+password = driver.find_element_by_name("password") 
+password.send_keys("Twitter123") #replace with your twitter password 
 password.send_keys(Keys.ENTER)
 time.sleep(4)
+
 driver.get("https://twitter.com/hasantoxr/status/1723266777705001004") #replace with which post you want auto quote..
 time.sleep(5)
 
