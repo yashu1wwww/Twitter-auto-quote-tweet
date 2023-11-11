@@ -21,10 +21,10 @@ driver.maximize_window()
 driver.get("https://twitter.com/i/flow/login")
 time.sleep(6)
 email = driver.find_element_by_name('text')
-email.send_keys("FUser73216") #replace with your twitter account username
+email.send_keys("Fmsong@123") #replace with your twitter account username
 email.send_keys(Keys.ENTER)
 time.sleep(2)
-password = driver.find_element_by_name("password") #replace with your twitter password 
+password = driver.find_element_by_name("pass123") #replace with your twitter password 
 password.send_keys("Twitter_123")
 password.send_keys(Keys.ENTER)
 time.sleep(4)
