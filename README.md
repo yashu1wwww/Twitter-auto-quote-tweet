@@ -1,9 +1,7 @@
 # Twitter-auto-quote-tweet-
-Twitter auto quote tweet using selenium with python
+Twitter auto quote tweets using multiple accounts selenium with python
 
-# Make sure to change the username and password on lines 24 and 28. Also,
-
-# review the 15th line for any necessary adjustments to the tweets, the 32nd line for the correct Twitter post URL, and the 52nd line for the desired number of quote retweets.
+# Make sure to change the username and password in list...
 
 # (Note: for auto-login, you must use non-authentication accounts.)
 
